@@ -1,2 +1,2 @@
-# Space_App_beta
+# Space_App_beta 🚀
 Versão beta da landingpage Space App
